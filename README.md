@@ -63,7 +63,7 @@ PRs with additional resources or suggestions are much welcome!
 - [Langcorn](https://github.com/msoedov/langcorn) - API server that enables you to serve LangChain models and pipelines with ease, leveraging the power of FastAPI
 - [smol developer](https://github.com/smol-ai/developer) - Your own personal junior developer :) 
 - [smol plugin](https://github.com/gmchad/smol-plugin) - Automatically generate @openai plugins by specifying your API in markdown
-- 
+
 ### Tools
 
 - [Vault AI](https://github.com/pashpashpash/vault-ai) - Tool for uploading documents and asking questions about their content
