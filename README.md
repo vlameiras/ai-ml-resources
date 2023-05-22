@@ -45,7 +45,6 @@ PRs with additional resources or suggestions are much welcome!
 - [LoopGPT](https://github.com/farizrahman4u/loopgpt) ⭐ - A much-needed modular reimplementation of Auto-GPT
 - [ThinkGPT](https://github.com/jina-ai/thinkgpt) - Implementing [Chain of Thought](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html) reasoning for Large Language Models.
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents) ⭐ - Provides a natural language API on top of transformers, with a set of curated tools and an agent designed to interpret natural language and use these tools
-- [smol developer](https://github.com/smol-ai/developer) - Your own personal junior developer :) 
 
 ### Developing
 
@@ -61,8 +60,10 @@ PRs with additional resources or suggestions are much welcome!
 - [How to build an agent with LangChain](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_build_a_tool-using_agent_with_Langchain.ipynb) - Great Jupyter notebook, straight from OpenAI
 - [Mojo](https://docs.modular.com/mojo/) - A new programming language that bridges the gap between research and production by combining the best of Python syntax with systems programming and metaprogramming
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK that enables integration of AI Large Language Models (LLMs) with conventional programming languages (currently supports only C# and Python)
-- [Langcorn](https://github.com/msoedov/langcorn) - API server that enables you to serve LangChain models and pipelines with ease, leveraging the power of FastAPI 
-
+- [Langcorn](https://github.com/msoedov/langcorn) - API server that enables you to serve LangChain models and pipelines with ease, leveraging the power of FastAPI
+- [smol developer](https://github.com/smol-ai/developer) - Your own personal junior developer :) 
+- [smol plugin](https://github.com/gmchad/smol-plugin) - Automatically generate @openai plugins by specifying your API in markdown
+- 
 ### Tools
 
 - [Vault AI](https://github.com/pashpashpash/vault-ai) - Tool for uploading documents and asking questions about their content
