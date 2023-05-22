@@ -61,7 +61,7 @@ PRs with additional resources or suggestions are much welcome!
 - [Mojo](https://docs.modular.com/mojo/) - A new programming language that bridges the gap between research and production by combining the best of Python syntax with systems programming and metaprogramming
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK that enables integration of AI Large Language Models (LLMs) with conventional programming languages (currently supports only C# and Python)
 - [Langcorn](https://github.com/msoedov/langcorn) - API server that enables you to serve LangChain models and pipelines with ease, leveraging the power of FastAPI
-- [smol developer](https://github.com/smol-ai/developer) - Your own personal junior developer :) 
+- [smol developer](https://github.com/smol-ai/developer) ⭐ - Your own personal junior developer :) 
 - [smol plugin](https://github.com/gmchad/smol-plugin) - Automatically generate @openai plugins by specifying your API in markdown
 
 ### Tools
