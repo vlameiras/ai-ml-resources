@@ -74,3 +74,4 @@ PRs with additional resources or suggestions are much welcome!
 - [privateGPT](https://github.com/imartinez/privateGPT) ⭐ - Documents Q&A using open-source LLMs
 - [Quivr](https://github.com/StanGirard/quivr) ⭐ - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface based on Gradio library for Stable Diffusion
+- [h2oGPT](https://github.com/h2oai/h2ogpt) ⭐ - Like privateGPT, but with GPU inference supported
