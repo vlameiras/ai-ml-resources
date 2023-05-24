@@ -76,3 +76,4 @@ PRs with additional resources or suggestions are much welcome!
 - [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface based on Gradio library for Stable Diffusion
 - [h2oGPT](https://github.com/h2oai/h2ogpt) ⭐ - Like privateGPT, but with GPU inference supported
 - [Promptflow](https://github.com/InsuranceToolkits/promptflow) - Create executable flowcharts that link LLMs, prompts, Python functions, and conditional logic together
+- [Dify](https://github.com/langgenius/dify) - Create and operate AI-native apps based on OpenAI GPT models
