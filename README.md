@@ -75,3 +75,4 @@ PRs with additional resources or suggestions are much welcome!
 - [Quivr](https://github.com/StanGirard/quivr) ⭐ - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface based on Gradio library for Stable Diffusion
 - [h2oGPT](https://github.com/h2oai/h2ogpt) ⭐ - Like privateGPT, but with GPU inference supported
+- [Promptflow](https://github.com/InsuranceToolkits/promptflow) - Create executable flowcharts that link LLMs, prompts, Python functions, and conditional logic together
