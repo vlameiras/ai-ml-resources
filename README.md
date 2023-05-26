@@ -65,6 +65,7 @@ PRs with additional resources or suggestions are much welcome!
 - [smol developer](https://github.com/smol-ai/developer) ⭐ - Your own personal junior developer :) 
 - [smol plugin](https://github.com/gmchad/smol-plugin) - Automatically generate @openai plugins by specifying your API in markdown
 - [Kor](https://eyurtsev.github.io/kor/tutorial.html) -  A thin wrapper on top of LLMs that helps to extract structured data
+- [Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts) - All-new powerful and flexible algorithm that advances model reasoning by a whopping 70%
 
 ### Tools
 
