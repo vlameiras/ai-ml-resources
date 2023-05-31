@@ -28,6 +28,7 @@ PRs with additional resources or suggestions are much welcome!
 - [Practical Deep Learning](https://course.fast.ai/) - A course designed for people with some coding experience, who want to learn how to apply deep learning and machine learning to practical problems.
 - [Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) ⭐ - From Andrej Karpathy, Let's build GPT: from scratch, in code, spelled out
 - [AI Canon](https://a16z.com/2023/05/25/ai-canon/) ⭐ - A great curated list of resources to get smarter about modern AI
+- [Transformers](https://www.youtube.com/watch?v=XfpMkf4rD6E) - Introduction to Transformers w/ Andrej Karpathy
 
 ### LLMs
 
