@@ -67,6 +67,7 @@ PRs with additional resources or suggestions are much welcome!
 - [smol developer](https://github.com/smol-ai/developer) ⭐ - Your own personal junior developer :) 
 - [smol plugin](https://github.com/gmchad/smol-plugin) - Automatically generate @openai plugins by specifying your API in markdown
 - [Kor](https://eyurtsev.github.io/kor/tutorial.html) -  A thin wrapper on top of LLMs that helps to extract structured data
+- [tiktoken](https://github.com/openai/tiktoken) -  A fast BPE tokeniser for use with OpenAI's models.
 
 ### Tools
 
@@ -79,5 +80,6 @@ PRs with additional resources or suggestions are much welcome!
 - [Quivr](https://github.com/StanGirard/quivr) ⭐ - Dump all your files and thoughts into your GenerativeAI Second Brain and chat with it
 - [Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A browser interface based on Gradio library for Stable Diffusion
 - [h2oGPT](https://github.com/h2oai/h2ogpt) ⭐ - Like privateGPT, but with GPU inference supported
+- [localGPT](https://github.com/PromtEngineer/localGPT) - Inspired in privateGPT, but using Vicuna-7b and InstructorEmbeddings. GPU/CPU support
 - [Promptflow](https://github.com/InsuranceToolkits/promptflow) - Create executable flowcharts that link LLMs, prompts, Python functions, and conditional logic together
 - [Dify](https://github.com/langgenius/dify) - Create and operate AI-native apps based on OpenAI GPT models
