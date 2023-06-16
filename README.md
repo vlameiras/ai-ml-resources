@@ -48,15 +48,13 @@ PRs with additional resources or suggestions are much welcome!
 - [LoopGPT](https://github.com/farizrahman4u/loopgpt) ⭐ - A much-needed modular reimplementation of Auto-GPT
 - [ThinkGPT](https://github.com/jina-ai/thinkgpt) - Implementing [Chain of Thought](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html) reasoning for Large Language Models.
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents) ⭐ - Provides a natural language API on top of transformers, with a set of curated tools and an agent designed to interpret natural language and use these tools
+- [GPT-Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it
 
 ### Developing
 
 - [LangChain](https://github.com/hwchase17/langchain) ⭐ - Framework for developing applications powered by LLMs
 - [Pinecone](https://www.pinecone.io/) - Long-term memory for models with a vector database
 - [Chroma](https://www.trychroma.com/) - The open-source alternative to Pinecone
-- [Guardrails](https://github.com/ShreyaR/guardrails) - Enforce standardisation, validation and formatting to LLMs output
-- [GPT-JSON](https://github.com/piercefreeman/gpt-json) - Enforce a declarative definition of the expected JSON output format
-- [jsonformer](https://github.com/1rgs/jsonformer) - Same as the former
 - [Plugandplai](https://github.com/edreisMD/plugnplai) - Simplify the integration of plugins into open-source LLMs
 - [GPTCache](https://github.com/zilliztech/GPTCache) - Caching for LLM responses. Useful for cost savings
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - A collection of examples and best practices for building with OpenAI
@@ -67,7 +65,8 @@ PRs with additional resources or suggestions are much welcome!
 - [smol developer](https://github.com/smol-ai/developer) ⭐ - Your own personal junior developer :) 
 - [smol plugin](https://github.com/gmchad/smol-plugin) - Automatically generate @openai plugins by specifying your API in markdown
 - [Kor](https://eyurtsev.github.io/kor/tutorial.html) -  A thin wrapper on top of LLMs that helps to extract structured data
-- [tiktoken](https://github.com/openai/tiktoken) -  A fast BPE tokeniser for use with OpenAI's models.
+- [tiktoken](https://github.com/openai/tiktoken) -  A fast BPE tokeniser used with OpenAI's models.
+- [OpenAI function calling](https://platform.openai.com/docs/guides/gpt/function-calling) - Standardise LLM output
 
 ### Tools
 
@@ -83,3 +82,4 @@ PRs with additional resources or suggestions are much welcome!
 - [localGPT](https://github.com/PromtEngineer/localGPT) - Inspired in privateGPT, but using Vicuna-7b and InstructorEmbeddings. GPU/CPU support
 - [Promptflow](https://github.com/InsuranceToolkits/promptflow) - Create executable flowcharts that link LLMs, prompts, Python functions, and conditional logic together
 - [Dify](https://github.com/langgenius/dify) - Create and operate AI-native apps based on OpenAI GPT models
+- [txtai](https://github.com/neuml/txtai) - Semantic search and workflows powered by language models
