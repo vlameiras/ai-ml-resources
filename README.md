@@ -72,6 +72,7 @@ PRs with additional resources or suggestions are much welcome!
 - [tiktoken](https://github.com/openai/tiktoken) -  A fast BPE tokeniser used with OpenAI's models.
 - [OpenAI function calling](https://platform.openai.com/docs/guides/gpt/function-calling) - Standardise LLM output
 - [Vercel AI SDK](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue 
+- [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter
 
 ### Tools
 
