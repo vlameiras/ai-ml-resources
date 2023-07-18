@@ -71,6 +71,7 @@ PRs with additional resources or suggestions are much welcome!
 - [Kor](https://eyurtsev.github.io/kor/tutorial.html) -  A thin wrapper on top of LLMs that helps to extract structured data
 - [tiktoken](https://github.com/openai/tiktoken) -  A fast BPE tokeniser used with OpenAI's models.
 - [OpenAI function calling](https://platform.openai.com/docs/guides/gpt/function-calling) - Standardise LLM output
+- [Vercel AI SDK](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue 
 
 ### Tools
 
