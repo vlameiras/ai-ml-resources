@@ -52,6 +52,7 @@ PRs with additional resources or suggestions are much welcome!
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents) ⭐ - Provides a natural language API on top of transformers, with a set of curated tools and an agent designed to interpret natural language and use these tools
 - [GPT-Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it
 - [Khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
+- [Danswer](https://github.com/danswer-ai/danswer) - OpenSource Enterprise Question-Answering
 
 ### Developing
 
