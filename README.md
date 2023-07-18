@@ -84,3 +84,4 @@ PRs with additional resources or suggestions are much welcome!
 - [Promptflow](https://github.com/InsuranceToolkits/promptflow) - Create executable flowcharts that link LLMs, prompts, Python functions, and conditional logic together
 - [Dify](https://github.com/langgenius/dify) - Create and operate AI-native apps based on OpenAI GPT models
 - [txtai](https://github.com/neuml/txtai) - Semantic search and workflows powered by language models
+- [Unofficial OpenAI Status](https://openai-status.llm-utils.org/) ⭐ - An in-depth OpenAI status page
