@@ -30,7 +30,8 @@ PRs with additional resources or suggestions are much welcome!
 - [Let's build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY) ⭐ - From Andrej Karpathy, Let's build GPT: from scratch, in code, spelled out
 - [AI Canon](https://a16z.com/2023/05/25/ai-canon/) ⭐ - A great curated list of resources to get smarter about modern AI
 - [Generative AI learning path](https://www.cloudskillsboost.google/paths/118) ⭐ - This learning path guides you through a curated collection of content on Generative AI products and technologies, from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud
-- [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml) - Intended to help those with a basic knowledge of machine learning get the benefit of Google's best practices in machine learning.
+- [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml) - Intended to help those with a basic knowledge of machine learning get the benefit of Google's best practices in machine learning
+- [AI Companion App](https://github.com/a16z-infra/companion-app?) - A tutorial stack to create and host AI companions that you can chat with on a browser or text via SMS
 
 ### LLMs
 
@@ -50,6 +51,7 @@ PRs with additional resources or suggestions are much welcome!
 - [ThinkGPT](https://github.com/jina-ai/thinkgpt) - Implementing [Chain of Thought](https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html) reasoning for Large Language Models.
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents) ⭐ - Provides a natural language API on top of transformers, with a set of curated tools and an agent designed to interpret natural language and use these tools
 - [GPT-Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it
+
 
 ### Developing
 
