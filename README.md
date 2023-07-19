@@ -53,6 +53,7 @@ PRs with additional resources or suggestions are much welcome!
 - [GPT-Engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it
 - [Khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
 - [Danswer](https://github.com/danswer-ai/danswer) - OpenSource Enterprise Question-Answering
+- [simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity
 
 ### Developing
 
