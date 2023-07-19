@@ -54,6 +54,7 @@ PRs with additional resources or suggestions are much welcome!
 - [Khoj](https://github.com/khoj-ai/khoj) - An AI personal assistant for your digital brain
 - [Danswer](https://github.com/danswer-ai/danswer) - OpenSource Enterprise Question-Answering
 - [simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity
+- [RealChar](https://github.com/Shaunwei/RealChar) - https://github.com/Shaunwei/RealChar
 
 ### Developing
 
