@@ -56,7 +56,7 @@ PRs with additional resources or suggestions are much welcome!
 - [simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity
 - [RealChar](https://github.com/Shaunwei/RealChar) - https://github.com/Shaunwei/RealChar
 
-### Developing
+### Development
 
 - [LangChain](https://github.com/hwchase17/langchain) ⭐ - Framework for developing applications powered by LLMs
 - [Pinecone](https://www.pinecone.io/) - Long-term memory for models with a vector database
