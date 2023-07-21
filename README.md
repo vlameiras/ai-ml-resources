@@ -41,6 +41,7 @@ PRs with additional resources or suggestions are much welcome!
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - Evaluate and rank open-source LLMs
 - [Guidance](https://github.com/microsoft/guidance) ⭐ - Control modern language models more effectively and efficiently than traditional prompting or chaining
 - [TheBloke on HF](https://huggingface.co/TheBloke) ⭐ - A user on Hugging Face that usually compiles the best open source models in several formats (4 bit quantized and CPU/GPU inferences)
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT) - Create 🦜️🔗 LangChain apps by just using prompts
 
 ### Chat and Agents
 
