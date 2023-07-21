@@ -93,4 +93,5 @@ PRs with additional resources or suggestions are much welcome!
 - [Dify](https://github.com/langgenius/dify) - Create and operate AI-native apps based on OpenAI GPT models
 - [txtai](https://github.com/neuml/txtai) - Semantic search and workflows powered by language models
 - [Unofficial OpenAI Status](https://openai-status.llm-utils.org/) ⭐ - An in-depth OpenAI status page
-- [gpt-prompt-engineer](https://github.com/mshumer/) - Input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best.
+- [gpt-prompt-engineer](https://github.com/mshumer/) - Input a description of your task and some test cases, and the system will generate, test, and rank a multitude of prompts to find the ones that perform the best
+- [rag-stack](https://github.com/psychic-api/rag-stack) - Deploy a private ChatGPT alternative hosted within your VPC
