@@ -42,6 +42,7 @@ PRs with additional resources or suggestions are much welcome!
 - [Guidance](https://github.com/microsoft/guidance) ⭐ - Control modern language models more effectively and efficiently than traditional prompting or chaining
 - [TheBloke on HF](https://huggingface.co/TheBloke) ⭐ - A user on Hugging Face that usually compiles the best open source models in several formats (4 bit quantized and CPU/GPU inferences)
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) - Create 🦜️🔗 LangChain apps by just using prompts
+- [Llama2 Web UI](https://github.com/liltom-eth/llama2-webui) - Running Llama 2 with gradio web UI on GPU or CPU from anywhere (Linux/Windows/Mac)
 
 ### Chat and Agents
 
