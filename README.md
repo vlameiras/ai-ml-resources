@@ -77,6 +77,7 @@ PRs with additional resources or suggestions are much welcome!
 - [OpenAI function calling](https://platform.openai.com/docs/guides/gpt/function-calling) - Standardise LLM output
 - [Vercel AI SDK](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue 
 - [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api) - Open source implementation of the ChatGPT Code Interpreter
+- [Open Interpreter](https://github.com/KillianLucas/open-interpreter/) - An open-source, locally running implementation of OpenAI's Code Interpreter
 
 ### Tools
 
