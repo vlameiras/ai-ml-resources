@@ -57,6 +57,8 @@ PRs with additional resources or suggestions are much welcome!
 - [Danswer](https://github.com/danswer-ai/danswer) - OpenSource Enterprise Question-Answering
 - [simpleaichat](https://github.com/minimaxir/simpleaichat) - Python package for easily interfacing with chat apps, with robust features and minimal code complexity
 - [RealChar](https://github.com/Shaunwei/RealChar) - https://github.com/Shaunwei/RealChar
+- [MetaGPT](https://github.com/geekan/MetaGPT) - The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [ChatGPT AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). - 
 
 ### Development
 
