@@ -4,8 +4,6 @@ Curated collection of AI/ML resources and tools to jumpstart your artificial int
 
 If you like this content, you may also be interested in getting the [newsletter](https://hn-ai-newsletter.beehiiv.com/) with a weekly AI/ML digest from Hacker News in your mailbox.
 
-I'll add a 📝 to my personal favorite resources :)
-
 PRs with additional resources or suggestions are much welcome!
 
 ## Resources 📕
