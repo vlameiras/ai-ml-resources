@@ -42,7 +42,8 @@ PRs with additional resources or suggestions are much welcome!
 
 ### LLMs
 
-- [OpenAI LLMs](https://openai.com/product/gpt-4) - The best LLMs, especially GPT-4. GPT-3.5 and GPT-4 are used in ChatGPT.
+- [OpenAI LLMs](https://openai.com/product/gpt-4) - OpenAI models.
+- 
 - [Hugging Face](https://huggingface.co/) - The leading open-source AI community. Find trending models, datasets, and spaces.
 - [Bloom](https://huggingface.co/bigscience/bloom) - An open-source multilingual model similar to GPT-3.
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational large language model by Meta.
@@ -63,7 +64,7 @@ PRs with additional resources or suggestions are much welcome!
 - [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 - [ExLlama](https://github.com/turboderp/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs.
 - [Stable Beluga 2](https://huggingface.co/stabilityai/StableBeluga2) - A fine-tuned Llama2 70B model.
-- [Claude 2](https://www.anthropic.com/index/introducing-claude-2) - An AI assistant from Anthropic with advanced reasoning and extended context.
+- [Claude](https://www.anthropic.com/) - An AI assistant from Anthropic with advanced reasoning and extended context.
 
 ### Chat and Agents
 
