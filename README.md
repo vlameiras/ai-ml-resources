@@ -140,7 +140,7 @@ PRs with additional resources or suggestions are much welcome!
 - [h2oGPT](https://github.com/h2oai/h2ogpt) - Like privateGPT, but with GPU inference supported.
 - [localGPT](https://github.com/PromtEngineer/localGPT) - Inspired by privateGPT, using Vicuna-7b and InstructorEmbeddings.
 - [Promptflow](https://github.com/InsuranceToolkits/promptflow) - Create executable flowcharts linking LLMs, prompts, and functions.
-- [Dify](https://github.com/langgenius/dify) - Create and operate AI-native apps based on OpenAI GPT models.
+- [Dify](https://github.com/langgenius/dify) - An open-source LLM app development platform.
 - [txtai](https://github.com/neuml/txtai) - Semantic search and workflows powered by language models.
 - [Unofficial OpenAI Status](https://openai-status.llm-utils.org/) - An in-depth OpenAI status page.
 - [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - Generates, tests, and ranks prompts for your task.
@@ -148,6 +148,7 @@ PRs with additional resources or suggestions are much welcome!
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT equivalent for open and closed-source LLMs.
 - [DocsGPT](https://github.com/arc53/docsgpt) - Streamlines finding information in project documentation.
 - [Dialoqbase](https://github.com/n4ze3m/dialoqbase) - Facilitate the creation of custom chatbots using a knowledge base.
+- [FastGPT](https://github.com/labring/FastGPT) - Knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities.
 
 #### ChatGPT Extensions
 
