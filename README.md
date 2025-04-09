@@ -111,7 +111,7 @@ PRs with additional resources or suggestions are much welcome!
 - [AutoPR](https://github.com/irgolic/AutoPR) - Automated pull request workflow powered by AI.
 - [Phind](https://www.phind.com/) - An AI search engine and assistant for programmers.
 - [Character.AI](https://beta.character.ai/) - Create and chat with AI-powered characters.
-- [Agent2Agent](https://github.com/google-deepmind/agent2agent) - Google DeepMind's framework for multi-agent collaboration with LLMs.
+- [Agent2Agent](https://google.github.io/A2A) - Google DeepMind's framework for multi-agent collaboration with LLMs.
 
 ### AI-Powered IDEs
 
