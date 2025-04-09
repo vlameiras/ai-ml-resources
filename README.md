@@ -111,6 +111,14 @@ PRs with additional resources or suggestions are much welcome!
 - [AutoPR](https://github.com/irgolic/AutoPR) - Automated pull request workflow powered by AI.
 - [Phind](https://www.phind.com/) - An AI search engine and assistant for programmers.
 - [Character.AI](https://beta.character.ai/) - Create and chat with AI-powered characters.
+- [Agent2Agent](https://github.com/google-deepmind/agent2agent) - Google DeepMind's framework for multi-agent collaboration with LLMs.
+
+### AI-Powered IDEs
+
+- [Cursor](https://cursor.sh/) - AI-first code editor based on VSCode with powerful chat, edit, and generation capabilities.
+- [Windsurf](https://codeium.com/windsurf) - AI agent-powered IDE that integrates with existing workflows, by Codeium.
+- [Trae](https://www.trae.ai/) - Adaptive AI IDE that transforms how you work, collaborating with you to run faster.
+- [Zed](https://zed.dev/) - High-performance, multiplayer code editor with AI features.
 
 ### Development
 
@@ -145,6 +153,8 @@ PRs with additional resources or suggestions are much welcome!
 - [Haystack](https://haystack.deepset.ai/) - Framework for building NLP applications with language models.
 - [Prediction Guard](https://www.predictionguard.com/) - Integrate private, controlled, and compliant LLM functionality.
 - [Portkey](https://portkey.ai/) - LLMOps platform to monitor, manage, and improve LLM-based apps.
+- [OpenRouter](https://openrouter.ai/) - A unified API to access 100+ LLMs from different providers through a single interface.
+- [Cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files and executing commands.
 
 ### Tools
 
