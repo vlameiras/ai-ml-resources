@@ -2,8 +2,6 @@
 
 Curated collection of AI/ML resources and tools to jumpstart your artificial intelligence and machine learning journey. Explore tutorials, datasets, libraries, and more!
 
-If you like this content, you may also be interested in getting the [newsletter](https://hn-ai-newsletter.beehiiv.com/) with a weekly AI/ML digest from Hacker News in your mailbox.
-
 PRs with additional resources or suggestions are much welcome!
 
 ## Resources 📕
@@ -35,6 +33,8 @@ PRs with additional resources or suggestions are much welcome!
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) - An index of some of the best and most recent machine learning courses available on YouTube.
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained) - Explanations of key concepts in machine learning.
 - [LLM Course](https://github.com/mlabonne/llm-course) - A course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use with their context lengths and licenses.
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with ChatGPT and other LLMs.
 - [Hugging Face Course](https://github.com/huggingface/course) - Learn how to apply Transformers to various tasks in natural language processing and beyond.
 - [Andrew Ng’s Machine Learning](https://www.coursera.org/learn/machine-learning) - A foundational course on machine learning.
 - [Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting important concepts in machine learning.
@@ -43,14 +43,30 @@ PRs with additional resources or suggestions are much welcome!
 ### LLMs
 
 - [OpenAI LLMs](https://openai.com/product/gpt-4) - OpenAI models.
-- 
 - [Hugging Face](https://huggingface.co/) - The leading open-source AI community. Find trending models, datasets, and spaces.
 - [Bloom](https://huggingface.co/bigscience/bloom) - An open-source multilingual model similar to GPT-3.
 - [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational large language model by Meta.
 - [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open-source large language model.
 - [JARVIS](https://github.com/microsoft/JARVIS) - An interface for LLMs to connect numerous AI models.
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) - Evaluate and rank open-source LLMs.
+
+### Modern LLM Models
+
+#### Commercial Models
+- [Claude](https://www.anthropic.com/claude) - Anthropic's family of frontier AI systems, known for long context windows and reasoning capabilities.
+- [Gemini](https://deepmind.google/technologies/gemini/) - Google DeepMind's multimodal AI system available in Ultra, Pro, and Nano sizes.
+- [GPT-4](https://openai.com/gpt-4) - OpenAI's most advanced system, with variants including GPT-4o (omni) and GPT-4 Turbo.
+
+#### Open Source Models
+- [Llama 3](https://ai.meta.com/llama/) - Meta's latest open foundation language model family, available in 8B and 70B parameters.
+- [Mistral](https://mistral.ai/) - A family of open-source large language models, including Mistral 7B and Mixtral 8x7B.
+- [Qwen](https://github.com/QwenLM/Qwen) - Alibaba's advanced LLM series with strong multilingual capabilities, available in various sizes.
+- [DeepSeek](https://github.com/deepseek-ai/DeepSeek-LLM) - A powerful open-source language model trained on 2T tokens with strong coding capabilities.
 - [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot fine-tuned from LLaMA.
+- [Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by 01.AI, available in 6B to 34B parameters.
+- [Phi-3](https://www.microsoft.com/en-us/research/blog/phi-3-technical-report/) - Microsoft's small yet powerful models (3.8B and 14B) with strong reasoning capabilities.
+- [Falcon](https://falconllm.tii.ae/) - Technology Innovation Institute's open-source LLM trained on 1 trillion tokens.
+- [Orca 2](https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/) - Microsoft's smaller models that demonstrate strong reasoning capabilities.
 - [Guidance](https://github.com/microsoft/guidance) - Control modern language models more effectively and efficiently.
 - [TheBloke on Hugging Face](https://huggingface.co/TheBloke) - Compiles the best open-source models in various formats.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) - Create 🦜️🔗 LangChain apps by just using prompts.
@@ -104,6 +120,8 @@ PRs with additional resources or suggestions are much welcome!
 - [Plug-in-Play](https://github.com/edreisMD/plugnplai) - Simplify the integration of plugins into open-source LLMs.
 - [GPTCache](https://github.com/zilliztech/GPTCache) - Caching for LLM responses. Useful for cost savings.
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) - A collection of examples and best practices for building with OpenAI.
+- [GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache to store responses from LLM queries for cost savings.
+- [Vercel AI SDK](https://github.com/vercel-labs/ai) - An open source library for building AI-powered user interfaces with React, Svelte, and Vue.
 - [How to build an agent with LangChain](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_build_a_tool-using_agent_with_langchain.ipynb) - Great Jupyter notebook from OpenAI.
 - [Mojo](https://docs.modular.com/mojo/) - A new programming language combining Python syntax with systems programming.
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - SDK that enables integration of AI LLMs with conventional programming languages.
@@ -181,6 +199,8 @@ PRs with additional resources or suggestions are much welcome!
 - [Milvus](https://github.com/milvus-io/milvus) - Open-source vector database for embedding similarity search.
 - [Qdrant](https://github.com/qdrant/qdrant) - Vector similarity search engine and database.
 - [Deep Lake](https://github.com/activeloopai/deeplake) - Database for AI optimized for deep-learning applications.
+- [Chroma](https://github.com/chroma-core/chroma) - Open-source embedding database for AI applications.
+- [LanceDB](https://github.com/lancedb/lancedb) - Developer-friendly vector database for AI applications.
 
 ### Stable Diffusion
 
@@ -189,6 +209,8 @@ PRs with additional resources or suggestions are much welcome!
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Creative engine for Stable Diffusion models.
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Powerful and modular Stable Diffusion GUI and backend.
 - [Lama Cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI models.
+- [ControlNet](https://github.com/lllyasviel/ControlNet) - Neural network structure to control diffusion models by adding extra conditions.
+- [Stable Diffusion XL](https://github.com/Stability-AI/generative-models) - Stability AI's advanced text-to-image model with improved quality and features.
 
 ### Audio Generation
 
@@ -198,6 +220,8 @@ PRs with additional resources or suggestions are much welcome!
 - [Resemble AI](https://www.resemble.ai/) - AI voice generator and voice cloning for text-to-speech.
 - [Murf AI](https://murf.ai/) - Create voiceovers with lifelike AI voices.
 - [Bark](https://github.com/suno-ai/bark) - Transformer-based text-to-audio model. #opensource
+- [AudioCraft](https://github.com/facebookresearch/audiocraft) - A library for audio processing and generation with deep learning, including MusicGen for music generation.
+- [Whisper](https://github.com/openai/whisper) - OpenAI's robust speech recognition model for transcription and translation.
 
 #### Music Generation
 
@@ -225,4 +249,9 @@ PRs with additional resources or suggestions are much welcome!
 - [Code to Flow](https://codetoflow.com) - Visualize code logic as flowcharts using AI.
 - [AI-Flow](https://ai-flow.net/) - Connect multiple AI models easily.
 - [Architecture Helper](https://architecturehelper.com) - Analyze building architecture and generate custom styles.
+- [LM Studio](https://lmstudio.ai/) - Discover, download, and run local LLMs with a desktop app.
+- [Ollama](https://ollama.ai/) - Run, create, and share large language models locally.
+- [Jan](https://jan.ai/) - Open-source ChatGPT alternative that runs 100% offline on your computer.
+- [PrivateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of LLMs, 100% privately, no data leaves your execution environment.
+- [LocalAI](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven, local OpenAI-compatible API.
 
