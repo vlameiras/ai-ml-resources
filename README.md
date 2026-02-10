@@ -66,7 +66,19 @@ PRs with additional resources or suggestions are much welcome!
 - [Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by 01.AI, available in 6B to 34B parameters.
 - [Phi-3](https://www.microsoft.com/en-us/research/blog/phi-3-technical-report/) - Microsoft's small yet powerful models (3.8B and 14B) with strong reasoning capabilities.
 - [Falcon](https://falconllm.tii.ae/) - Technology Innovation Institute's open-source LLM trained on 1 trillion tokens.
+- [Falcon 2](https://falconllm.tii.ae/) - Technology Innovation Institute's latest open-source LLM with enhanced capabilities.
 - [Orca 2](https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/) - Microsoft's smaller models that demonstrate strong reasoning capabilities.
+- [Gemma 2](https://ai.google.dev/gemma) - Google's lightweight models (9B, 27B) optimized for high-speed inference across hardware.
+- [Command R/R+](https://cohere.com/command) - Cohere's models specifically designed for RAG and long-context tasks.
+- [Granite](https://www.ibm.com/granite) - IBM's enterprise-focused models with efficient hybrid architectures.
+- [Phi-4](https://www.microsoft.com/en-us/research/blog/phi-4/) - Microsoft's 16B parameter multimodal SLM with multilingual support and image understanding.
+- [Qwen2.5/Qwen3](https://github.com/QwenLM/Qwen) - Alibaba's updated series (0.5B-72B, 128K context, 29+ languages) with specialized variants.
+- [Grok-1.5](https://x.ai/) - xAI's model with vision capabilities and long context support.
+- [StableLM](https://github.com/Stability-AI/StableLM) - Stability AI's language models for various scales and use cases.
+- [Nemotron 3](https://www.nvidia.com/en-us/ai-data-science/products/nemotron/) - Nvidia's hybrid architecture model for cost-effective scaling.
+- [Kimi K2](https://www.moonshot.cn/) - Chinese model with strong performance and long context capabilities.
+- [ChatGLM/GLM](https://github.com/THUDM/ChatGLM3) - Tsinghua University's bilingual conversational model.
+- [MiniMax](https://www.minimaxi.com/) - Chinese multimodal model with text and image capabilities.
 - [Guidance](https://github.com/microsoft/guidance) - Control modern language models more effectively and efficiently.
 - [TheBloke on Hugging Face](https://huggingface.co/TheBloke) - Compiles the best open-source models in various formats.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) - Create 🦜️🔗 LangChain apps by just using prompts.
@@ -112,6 +124,17 @@ PRs with additional resources or suggestions are much welcome!
 - [Phind](https://www.phind.com/) - An AI search engine and assistant for programmers.
 - [Character.AI](https://beta.character.ai/) - Create and chat with AI-powered characters.
 - [Agent2Agent](https://google.github.io/A2A) - Google DeepMind's framework for multi-agent collaboration with LLMs.
+- [CrewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents with collaborative intelligence.
+- [CopilotKit](https://github.com/CopilotKit/CopilotKit) - Framework for building agent-native applications with Generative UI and human-in-the-loop workflows.
+- [LangGraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs with advanced state management.
+- [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - Open phone agent model and framework for unlocking AI phone capabilities.
+- [Mastra](https://github.com/mastra-ai/mastra) - Framework for building AI-powered applications and agents with modern TypeScript stack.
+- [deer-flow](https://github.com/bytedance/deer-flow) - ByteDance's community-driven Deep Research framework combining LLMs with web search and tools.
+- [openai-agents-python](https://github.com/openai/openai-agents-python) - OpenAI's lightweight, powerful framework for multi-agent workflows.
+- [12-factor-agents](https://github.com/humanlayer/12-factor-agents) - Principles for building production-ready LLM-powered software agents.
+- [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL and Agents.
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone with Discord, Slack, Telegram integration.
+- [Microsoft AutoGen](https://github.com/microsoft/autogen) - Programming framework for agentic AI with multi-agent conversations.
 
 ### AI-Powered IDEs
 
@@ -155,6 +178,61 @@ PRs with additional resources or suggestions are much welcome!
 - [Portkey](https://portkey.ai/) - LLMOps platform to monitor, manage, and improve LLM-based apps.
 - [OpenRouter](https://openrouter.ai/) - A unified API to access 100+ LLMs from different providers through a single interface.
 - [Cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files and executing commands.
+- [Screenpipe](https://github.com/mediar-ai/screenpipe) - Screen and voice AI recording for context-aware AI applications.
+- [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Tool for fine-tuning LLMs with YAML configs supporting LoRA/QLoRA/full tuning.
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Web UI for fine-tuning LLaMA models with multi-GPU support.
+
+### RAG (Retrieval-Augmented Generation)
+
+- [RAGFlow](https://github.com/infiniflow/ragflow) - Leading open-source RAG engine fusing cutting-edge RAG with Agent capabilities.
+- [GraphRAG](https://github.com/microsoft/graphrag) - Microsoft's modular graph-based RAG system for enhanced reasoning.
+- [LightRAG](https://github.com/HKUDS/LightRAG) - Simple and fast Retrieval-Augmented Generation framework.
+- [R2R](https://github.com/SciPhi-AI/R2R) - Production-ready AI retrieval system with agentic RAG and RESTful API.
+- [Verba](https://github.com/weaviate/Verba) - RAG chatbot powered by Weaviate with customizable pipelines.
+- [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - RAG evaluation and optimization framework with AutoML-style automation.
+- [Cognita](https://github.com/truefoundry/cognita) - Modular, open-source RAG framework for production applications.
+- [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - Showcase of advanced RAG techniques and implementations.
+
+### Model Context Protocol (MCP)
+
+- [fastmcp](https://github.com/jlowin/fastmcp) - Fast, Pythonic way to build MCP servers and clients for AI applications.
+- [mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - Microsoft's open-source curriculum for MCP in multiple languages (.NET, Java, TypeScript, Python, Rust).
+- [claude-flow](https://github.com/ruvnet/claude-flow) - Leading agent orchestration platform for Claude with MCP support and swarm intelligence.
+- [fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose FastAPI endpoints as Model Context Protocol tools with Auth.
+- [mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome extension-based MCP server for browser automation and content analysis.
+- [mcp-use](https://github.com/mcp-use/mcp-use) - Easiest way to interact with MCP servers with custom agents.
+- [mcp-go](https://github.com/mark3labs/mcp-go) - Go implementation of Model Context Protocol for seamless LLM integration.
+- [mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and workflow patterns.
+- [awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Curated list of Model Context Protocol servers.
+
+### AI Workflow Automation
+
+- [n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities and 400+ integrations.
+- [Dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development with low-code interface.
+- [activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation with 400 MCP servers.
+- [sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+
+### AI Video Generation
+
+- [Sora](https://openai.com/sora) - OpenAI's text-to-video model with narrative intelligence for creating realistic videos.
+- [Kling AI](https://klingai.com/) - Filmmaker-friendly video generation with collaboration features, 1080p, 10s videos.
+- [Luma AI (Dream Machine)](https://lumalabs.ai/dream-machine) - 4K HDR/EXR support for professional post-production quality video generation.
+- [Runway Gen-4](https://runwayml.com/) - Filmmaking tools with camera controls, Act-One, and comprehensive editing suite.
+- [Google Veo](https://deepmind.google/technologies/veo/) - Best all-arounder with strong prompt adherence, realism with audio, 1080p, 8s.
+- [Pika](https://pika.art/) - Cost-effective video generation with creative controls and editing features.
+- [Seedance Pro](https://seedance.co/) - Most reliable video generation with stunning realism and 12s native generations.
+- [Minimax Hailuo](https://hailuoai.video/) - Good for object transformation with creative video effects.
+
+### AI Search Engines
+
+- [Perplexity AI](https://www.perplexity.ai/) - Conversational AI search with superior source citations and focus modes for different domains.
+- [You.com](https://you.com/) - Productivity engine with multiple AI models (GPT-4, Claude 3, Gemini) and customizable search modes.
+- [Andi Search](https://andisearch.com/) - Ranked #1 for factual accuracy in 2024 benchmarks with conversational interface.
+- [Brave Search](https://search.brave.com/) - Independent search with AI Answer feature, zero tracking, and ad-free results.
+- [Arc Search](https://arc.net/) - Mobile-first with "Browse for Me" feature that compiles information into custom webpages.
+- [Consensus](https://consensus.app/) - Specialized in scientific and academic research search.
+- [Wolfram Alpha](https://www.wolframalpha.com/) - Computational knowledge engine for scientific and mathematical queries.
+- [Phind](https://www.phind.com/) - AI search engine for developers with multiple model choices and technical focus.
 
 ### Tools
 
@@ -197,11 +275,54 @@ PRs with additional resources or suggestions are much welcome!
 - [Aider](https://github.com/paul-gauthier/aider) - Pair program with GPT-3.5/GPT-4 to edit code in your git repo.
 - [AutoPR](https://github.com/irgolic/AutoPR) - Automated pull request workflow powered by AI.
 - [bloop](https://github.com/BloopAI/bloop) - ChatGPT for your codebase; search and generate patches.
-- [GitHub Copilot](https://github.com/features/copilot) - Uses OpenAI Codex to suggest code and functions.
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot.
 - [Ghostwriter](https://replit.com/site/ghostwriter) - AI-powered pair programmer by Replit.
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Build applications faster with ML-powered coding companion.
 - [MutableAI](https://mutable.ai/) - AI-accelerated software development.
 - [GPT-Code UI](https://github.com/ricklamers/gpt-code-ui) - Open-source implementation of ChatGPT Code Interpreter.
+
+### Local AI Coding Agents & Assistants
+
+#### Terminal/CLI-Based Coding Agents
+
+- [OpenClaw](https://github.com/openclaw/openclaw) - Personal AI assistant that runs locally with autonomous task execution, plugin system, and multi-platform messaging integration.
+- [Codex](https://github.com/openai/codex) - OpenAI's lightweight coding agent that runs in your terminal for autonomous code editing and execution.
+- [Claude Code](https://www.anthropic.com/claude/code) - Anthropic's autonomous coding assistant with terminal integration and advanced reasoning.
+- [Goose](https://github.com/block/goose) - Open-source, extensible AI agent from Block that goes beyond code suggestions with install, execute, edit, and test capabilities.
+- [Roo Code](https://github.com/RooCodeInc/Roo-Code) - VS Code extension providing a whole dev team of AI agents with multiple modes, semantic indexing, and MCP support.
+- [pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit with coding agent CLI, unified LLM API, TUI & web UI libraries, and vLLM pods.
+
+#### Desktop Applications & Unified Clients
+
+- [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - Agentic AI desktop with 300+ assistants, autonomous coding, and unified access to frontier LLMs.
+- [AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source UI for multiple coding agents including Codex, Claude Code, Goose CLI, and more.
+- [cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI with skills management.
+- [nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight OpenClaw alternative with minimal resource requirements.
+- [nanoclaw](https://github.com/gavrielc/nanoclaw) - Lightweight alternative to OpenClaw running in Apple containers for security with WhatsApp integration.
+
+#### Agent Management & Orchestration
+
+- [claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, and Amp simultaneously.
+- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban-style task management to get 10X more out of coding agents.
+- [humanlayer](https://github.com/humanlayer/humanlayer) - Human-in-the-loop framework for AI coding agents solving hard problems in complex codebases.
+- [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The best agent harness for orchestrating multiple coding agents.
+
+#### Skills & Extensions
+
+- [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Curated list of Claude Skills, resources, and tools for customizing Claude AI workflows.
+- [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - Collection of OpenClaw Skills (formerly Moltbot/Clawdbot skills).
+- [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - 300+ agent skills from official teams and community, compatible with Codex, Claude Code, Cursor, and others.
+- [obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian note-taking integration.
+- [marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents including CRO, copywriting, SEO, and analytics.
+
+#### Infrastructure & Utilities
+
+- [1Panel](https://github.com/1Panel-dev/1Panel) - Web interface for Linux servers to manage OpenClaw agents, LLMs, websites, databases, and containers.
+- [LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots across Discord, Slack, Telegram, WeChat, and more.
+- [memU](https://github.com/NevaMind-AI/memU) - Memory system for 24/7 proactive agents like openclaw with persistent context and scheduled jobs.
+- [moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw on Cloudflare Workers for serverless deployment.
+- [happy](https://github.com/slopus/happy) - Mobile and web client for Codex and Claude Code with realtime voice and encryption.
+- [ccusage](https://github.com/ryoppippi/ccusage) - CLI tool for analyzing Claude Code/Codex usage from local JSONL files.
 
 ### Vector Databases
 
