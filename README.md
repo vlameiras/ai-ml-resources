@@ -123,6 +123,7 @@ PRs with additional resources or suggestions are much welcome!
 - [AutoPR](https://github.com/irgolic/AutoPR) - Automated pull request workflow powered by AI.
 - [Phind](https://www.phind.com/) - An AI search engine and assistant for programmers.
 - [Character.AI](https://beta.character.ai/) - Create and chat with AI-powered characters.
+- [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
 - [Agent2Agent](https://google.github.io/A2A) - Google DeepMind's framework for multi-agent collaboration with LLMs.
 - [CrewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents with collaborative intelligence.
 - [CopilotKit](https://github.com/CopilotKit/CopilotKit) - Framework for building agent-native applications with Generative UI and human-in-the-loop workflows.
