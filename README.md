@@ -222,6 +222,7 @@ PRs with additional resources or suggestions are much welcome!
 - [Pika](https://pika.art/) - Cost-effective video generation with creative controls and editing features.
 - [Seedance Pro](https://seedance.co/) - Most reliable video generation with stunning realism and 12s native generations.
 - [Minimax Hailuo](https://hailuoai.video/) - Good for object transformation with creative video effects.
+- [Pixwit](https://pixwit.ai/) - Multi-model text-to-video and image-to-video platform with video effects and image generation.
 
 ### AI Search Engines
 
